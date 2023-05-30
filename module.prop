@@ -1,6 +1,6 @@
-id=module-id
-name=module name
-version=v0.1
+id=trust-user-certs
+name=Trust User Certificates
+version=v1.0
 versionCode=1
-author=author
-description=description
+author=Yufz
+description=This module adds all installed user certificates to the system trust store.
